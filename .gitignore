@@ -1,0 +1,10 @@
+#Comment 
+textfile.txt
+.DS_Store
+*.Zip
+*.giz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
